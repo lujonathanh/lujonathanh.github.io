@@ -1,3 +1,5 @@
+# Other Things I Do
+
 # Climate Change
 
 I founded the [Princeton Student Climate Initiative](psci.princeton.edu) in 2017 and led our two-year effort to develop a simple, effective, fiscally responsible climate policy for New Jersey.
