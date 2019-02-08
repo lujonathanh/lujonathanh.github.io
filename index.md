@@ -14,7 +14,7 @@ I hope to design, secure, and translate computational tools that address healthc
 **[Twitter](twitter.com/JonathanLu11)**
 
 
-<sub> Note: this is just a website. It's no substitute for meeting me in person! </sub>
+<sub> Note: this website gives some info, but the best way to get to know me is to meet me in person! </sub>
 
 # Writing and Presentations
 
@@ -28,7 +28,7 @@ Bianca Dumitrascu\*, **Jonathan Lu\***, Ian C. McDowell, Brian Jo, Alejandro B
 
 *In submission*
 
-[Paper](TBD) | [Code](https://github.com/lujonathanh/BETS) | [Analysis](TBD)
+[Paper](TBD) \| [Code](https://github.com/lujonathanh/BETS) \| [Analysis](TBD)
 
 *\* indicates equal contribution*
 
@@ -42,7 +42,7 @@ Software for finding species masses in noisy, overlapping, and interleaved mass 
 
 *Journal of the American Society of Mass Spectrometry*, 26:2141-2151, 2015
 
-[Paper](journal/Lu2015_Article_ImprovedPeakDetectionAndDeconv.pdf) | [Code](https://github.com/lujonathanh/PeakSeeker)
+[Paper](journal/Lu2015_Article_ImprovedPeakDetectionAndDeconv.pdf) \| [Code](https://github.com/lujonathanh/PeakSeeker)
 
 *\* indicates equal contribution*
 
@@ -67,7 +67,7 @@ My senior thesis. Builds on our causal inference method by adding bootstrap-base
 
 2018
 
-[Report](thesis/Spring2018_thesis_JL.pdf) | [Slides](thesis/Spring2018_thesispresentation_JL.pdf)
+[Report](thesis/Spring2018_thesis_JL.pdf) \| [Slides](thesis/Spring2018_thesispresentation_JL.pdf)
 
 **Improved Methods for Causal Inference and Experimental Prioritization in Gene Regulatory Networks**
 
@@ -77,5 +77,5 @@ My junior thesis. Develops a causal network inference method and evaluates multi
 
 2017
 
-[Report](thesis/Spring2017_thesis_JL.pdf) | [Poster](thesis/Spring2017IW_Poster_5_8_17.pdf) | [Slides](thesis/Spring2017_thesispresentation_JL.pdf)
+[Report](thesis/Spring2017_thesis_JL.pdf) \| [Poster](thesis/Spring2017IW_Poster_5_8_17.pdf) \| [Slides](thesis/Spring2017_thesispresentation_JL.pdf)
 

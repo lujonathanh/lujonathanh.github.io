@@ -1,1 +1,19 @@
+title: Jonathan Lu
+author: Jonathan Lu
+description: The research website of Jonathan Lu
+
+minima:
+	date_format: "%b %-d, %Y"
+	social_links:
+		github: lujonathanh
+		twitter: JonathanLu11
+
+header_pages:
+ - index.md
+
 theme: minima
+
+google_analytics: UA-NNNNNNNN-N
+
+plugins:
+  - jekyll-seo-tag
