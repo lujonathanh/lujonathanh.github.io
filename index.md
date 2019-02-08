@@ -1,8 +1,9 @@
-# Jonathan Lu
+## Jonathan Lu
 
 Hello! I am a master's student in computer science at Princeton University and an aspiring physician-computer scientist. I am lucky and grateful to work in the group of [Barbara Engelhardt](http://beehive.cs.princeton.edu/).
 
 I hope to design, secure, and translate computational tools that address healthcare challenges. My research interests are in **biomedical informatics, genomics, machine learning** (in the wild), **causal inference,** and **statistics.** Previously, I worked on inferring causal networks from gene expression time series and analyzing protein complex mass spectra.
+
 
 **Email:** jhlu AT princeton DOT edu
 
@@ -11,6 +12,9 @@ I hope to design, secure, and translate computational tools that address healthc
 **[Github](github.com/lujonathanh)**
 
 **[Twitter](twitter.com/JonathanLu11)**
+
+
+<sub> Note: this is just a website. It's no substitute for meeting me in person! </sub>
 
 # Writing and Presentations
 
@@ -24,7 +28,7 @@ Bianca Dumitrascu\*, **Jonathan Lu\***, Ian C. McDowell, Brian Jo, Alejandro B
 
 *In submission*
 
-[Paper](TBD) [Code](https://github.com/lujonathanh/BETS) [Analysis](TBD)
+[Paper](TBD) | [Code](https://github.com/lujonathanh/BETS) | [Analysis](TBD)
 
 *\* indicates equal contribution*
 
@@ -38,7 +42,7 @@ Software for finding species masses in noisy, overlapping, and interleaved mass 
 
 *Journal of the American Society of Mass Spectrometry*, 26:2141-2151, 2015
 
-[Paper](journal/Lu2015_Article_ImprovedPeakDetectionAndDeconv.pdf) [Code](https://github.com/lujonathanh/PeakSeeker)
+[Paper](journal/Lu2015_Article_ImprovedPeakDetectionAndDeconv.pdf) | [Code](https://github.com/lujonathanh/PeakSeeker)
 
 *\* indicates equal contribution*
 
@@ -63,7 +67,7 @@ My senior thesis. Builds on our causal inference method by adding bootstrap-base
 
 2018
 
-[Report](thesis/Spring2018_thesis_JL.pdf) [Slides](thesis/Spring2018_thesispresentation_JL.pdf)
+[Report](thesis/Spring2018_thesis_JL.pdf) | [Slides](thesis/Spring2018_thesispresentation_JL.pdf)
 
 **Improved Methods for Causal Inference and Experimental Prioritization in Gene Regulatory Networks**
 
@@ -73,5 +77,5 @@ My junior thesis. Develops a causal network inference method and evaluates multi
 
 2017
 
-[Report](thesis/Spring2017_thesis_JL.pdf) [Poster](thesis/Spring2017IW_Poster_5_8_17.pdf) [Slides](thesis/Spring2017_thesispresentation_JL.pdf)
+[Report](thesis/Spring2017_thesis_JL.pdf) | [Poster](thesis/Spring2017IW_Poster_5_8_17.pdf) | [Slides](thesis/Spring2017_thesispresentation_JL.pdf)
 
