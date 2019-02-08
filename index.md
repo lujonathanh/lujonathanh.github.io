@@ -1,3 +1,5 @@
+# Jonathan Lu
+
 Hello! I am a master's student in computer science at Princeton University and an aspiring physician-computer scientist. I am lucky and grateful to work in the group of [Barbara Engelhardt](http://beehive.cs.princeton.edu/).
 
 I hope to design, secure, and translate computational tools that address healthcare challenges. My research interests are in **biomedical informatics, genomics, machine learning** (in the wild), **causal inference,** and **statistics.** Previously, I worked on inferring causal networks from gene expression time series and analyzing protein complex mass spectra.
