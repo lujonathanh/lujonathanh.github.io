@@ -3,9 +3,9 @@ author: Jonathan Lu
 description: The research website of Jonathan Lu
 
 minima:
-	social_links:
-		github: lujonathanh
-		twitter: JonathanLu11
+    social_links:
+        github: lujonathanh
+        twitter: JonathanLu11
 
 header_pages:
  - index.md
