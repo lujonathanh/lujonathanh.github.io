@@ -1,5 +1,3 @@
-## Jonathan Lu
-
 Hello! I am a master's student in computer science at Princeton University and an aspiring physician-computer scientist. I am lucky and grateful to work in the group of [Barbara Engelhardt](http://beehive.cs.princeton.edu/).
 
 I hope to design, secure, and translate computational tools that address healthcare challenges. My research interests are in **biomedical informatics, genomics, machine learning** (in the wild), **causal inference,** and **statistics.** Previously, I worked on inferring causal networks from gene expression time series and analyzing protein complex mass spectra.
@@ -15,9 +13,9 @@ I hope to design, secure, and translate computational tools that address healthc
 
 **Causal Network Inference from Gene Transcription Response to Glucocorticoids**  
 Inferring, analyzing, and validating networks from gene expression time series.  
-Bianca Dumitrascu\*, **Jonathan Lu\***, Ian C. McDowell, Brian Jo, Alejandro Barrera, Linda K. Hong, Sarah M. Leichter, Timothy E. Reddy, Barbara E. Engelhardt  
+**Jonathan Lu\***, Bianca Dumitrascu\*, Ian C. McDowell, Brian Jo, Alejandro Barrera, Linda K. Hong, Sarah M. Leichter, Timothy E. Reddy, Barbara E. Engelhardt  
 *In submission*  
-[Paper](TBD) \| [Code](https://github.com/lujonathanh/BETS) \| [Analysis](TBD)  
+[Paper](https://www.biorxiv.org/content/10.1101/587170v1) \| [Code](https://github.com/lujonathanh/BETS) \| [Analysis](TBD)  
 *\* indicates equal contribution*
 
 ## Journal Papers
