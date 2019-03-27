@@ -14,7 +14,7 @@ I hope to design, secure, and translate computational tools that address healthc
 **Causal Network Inference from Gene Transcription Response to Glucocorticoids**  
 **Jonathan Lu\***, Bianca Dumitrascu\*, Ian C. McDowell, Brian Jo, Alejandro Barrera, Linda K. Hong, Sarah M. Leichter, Timothy E. Reddy, Barbara E. Engelhardt  
 *In submission*  
-[Paper](https://www.biorxiv.org/content/10.1101/587170v1) \| [Code](https://github.com/lujonathanh/BETS) \| [Analysis](TBD)  
+[Paper](https://www.biorxiv.org/content/10.1101/587170v1) \| [Code](https://github.com/lujonathanh/BETS) \| [Analysis](https://drive.google.com/drive/folders/14f47-XB9KzBKn-BMwwfgb-0hXSFCJC2n?usp=sharing)  
 *\* indicates equal contribution*
 
 ## Journal Papers
