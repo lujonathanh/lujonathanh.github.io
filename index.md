@@ -34,14 +34,14 @@ I hope to design, secure, and translate computational tools that address healthc
 
 ## Theses
 
-**Effective and Scalable Causal Inference from Gene Expression Time Series**
-Senior Thesis
+**Effective and Scalable Causal Inference from Gene Expression Time Series**  
+Senior Thesis  
 **Jonathan Lu**, Barbara Engelhardt  
 2018  
 [Report](thesis/Spring2018_thesis_JL.pdf) \| [Slides](thesis/Spring2018_thesispresentation_JL.pdf)  
 
 **Improved Methods for Causal Inference and Experimental Prioritization in Gene Regulatory Networks**  
-Junior Thesis 
+Junior Thesis  
 **Jonathan Lu**, Barbara Engelhardt  
 2017  
 [Report](thesis/Spring2017_thesis_JL.pdf) \| [Poster](thesis/Spring2017IW_Poster_5_8_17.pdf) \| [Slides](thesis/Spring2017_thesispresentation_JL.pdf)
