@@ -1,10 +1,11 @@
-Hello! I am a medical student at Stanford University School of Medicine and an aspiring physician-computer scientist. Previously, I was a master's student in computer science at Princeton University, where I was lucky and grateful to work in the group of [Barbara Engelhardt](http://beehive.cs.princeton.edu/).
+Hello! I am a medical student at Stanford University School of Medicine and an aspiring physician-computer scientist. Previously, I was a master's student in computer science at Princeton University, where I was
+lucky and grateful to work in the group of [Barbara Engelhardt](http://beehive.cs.princeton.edu/).
 
 I hope to design, secure, and translate computational tools that address healthcare challenges. My research interests are in **biomedical informatics, genomics, machine learning** (in the wild), **causal inference,** and **statistics.** Previously, I worked on inferring causal networks from gene expression time series and analyzing protein complex mass spectra.
 
 
 **Email:** jhlu AT stanford DOT edu  
-**[Curriculum Vitae](cv_2_6_19.pdf)**  
+**[Curriculum Vitae](JonathanLu.CV.12-16-19.pdf)**  
 <sub> Note: this website gives some info, but the best way to get to know me is to meet me in person! </sub>
 
 # Writing and Presentations
