@@ -9,6 +9,7 @@ minima:
 
 header_pages:
  - index.md
+ - research.md
 
 theme: minima
 

@@ -1,49 +1,10 @@
-Hello! I am a medical student at Stanford University School of Medicine and an aspiring physician-computer scientist. Previously, I was a master's student in computer science at Princeton University, where I was
-lucky and grateful to work in the group of [Barbara Engelhardt](http://beehive.cs.princeton.edu/).
+Hello! I'm a medical student at Stanford University School of Medicine (graduation 2023) and an aspiring primary care physician-computer scientist. 
 
-I hope to design, secure, and translate computational tools that address healthcare challenges. My research interests are in **biomedical informatics, genomics, machine learning** (in the wild), **causal inference,** and **statistics.** Previously, I worked on inferring causal networks from gene expression time series and analyzing protein complex mass spectra.
-
+I'm trying to become a compassionate, competent clinician. And, I'd like to put my clinical experience with my computational training to address healthcare challenges. My [research background](research.md) is in machine learning, causal inference, statistics, and genomics.
 
 **Email:** jhlu AT stanford DOT edu  
 **[Curriculum Vitae](JonathanLu.CV.12-16-19.pdf)**  
-<sub> Note: this website gives some info, but the best way to get to know me is to meet me in person! </sub>
+[Research](research.md)
 
-# Writing and Presentations
-
-## Preprints
-
-**Causal Network Inference from Gene Transcription Response to Glucocorticoids**  
-**Jonathan Lu\***, Bianca Dumitrascu\*, Ian C. McDowell, Brian Jo, Alejandro Barrera, Linda K. Hong, Sarah M. Leichter, Timothy E. Reddy, Barbara E. Engelhardt  
-*In submission*  
-[Paper](https://www.biorxiv.org/content/10.1101/587170v1) \| [Code](https://github.com/lujonathanh/BETS) \| [Analysis](https://drive.google.com/drive/folders/14f47-XB9KzBKn-BMwwfgb-0hXSFCJC2n?usp=sharing)  
-*\* indicates equal contribution*
-
-## Journal Papers
-
-**Improved Peak Detection and Deconvolution of Native Electrospray Mass Spectra from Large Protein Complexes**  
-**Jonathan Lu\*,** Michael J. Trnka\*, Soung-Hun Roh, Philip J. J. Robinson, Carrie Shiau, Danica Galonic Fujimori, Wah Chiu, Alma L. Burlingame, Shenheng Guan  
-*Journal of the American Society of Mass Spectrometry*, 26:2141-2151, 2015  
-[Paper](journal/Lu2015_Article_ImprovedPeakDetectionAndDeconv.pdf) \| [Code](https://github.com/lujonathanh/PeakSeeker)  
-*\* indicates equal contribution*
-
-## Conference Presentations
-
-**Causal profile subgraph embeddings of metabolic and immune response mediated gene regulation from time series gene expression**   
-**Jonathan Lu\*,** Bianca Dumitrascu\*, Ian C. McDowell, Soledad Villar, Timothy E. Reddy, Barbara Engelhardt  
-*2nd Annual Probabilistic Modeling in Genomics Conference*, 2016  
-*\* indicates equal contribution*
-
-## Theses
-
-**Effective and Scalable Causal Inference from Gene Expression Time Series**  
-Senior Thesis  
-**Jonathan Lu**, Barbara Engelhardt  
-2018  
-[Report](thesis/Spring2018_thesis_JL.pdf) \| [Slides](thesis/Spring2018_thesispresentation_JL.pdf)  
-
-**Improved Methods for Causal Inference and Experimental Prioritization in Gene Regulatory Networks**  
-Junior Thesis  
-**Jonathan Lu**, Barbara Engelhardt  
-2017  
-[Report](thesis/Spring2017_thesis_JL.pdf) \| [Poster](thesis/Spring2017IW_Poster_5_8_17.pdf) \| [Slides](thesis/Spring2017_thesispresentation_JL.pdf)
+<sub> Note: this website is a repository of facts, but really the best way to get to know me is to meet me! </sub>
 
