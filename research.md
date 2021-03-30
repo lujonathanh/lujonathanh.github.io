@@ -8,8 +8,8 @@ I was previously a bachelor's (grad. 2018) and master's student (grad. 2019) in 
 
 **Causal network inference from gene transcriptional time-series response to glucocorticoids**  
 **Jonathan Lu\***, Bianca Dumitrascu\*, Ian C. McDowell, Brian Jo, Alejandro Barrera, Linda K. Hong, Sarah M. Leichter, Timothy E. Reddy, Barbara E. Engelhardt  
-*PLOS Computatinoal Biology*,   
-[Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pcbi.1008223), [PDF](journal/Lu2021_Article_BETS.pdf)  \| [Code](https://github.com/lujonathanh/BETS) \| [Analysis](https://zenodo.org/record/4009546#.YGJhcUhKjyt)  
+*PLOS Computational Biology*, 2021   
+[Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pcbi.1008223) [(PDF)](journal/Lu2021_Article_BETS.pdf)  \| [Code](https://github.com/lujonathanh/BETS) \| [Analysis](https://zenodo.org/record/4009546#.YGJhcUhKjyt)  
 *\* indicates equal contribution*
 
 **Improved Peak Detection and Deconvolution of Native Electrospray Mass Spectra from Large Protein Complexes**  
@@ -21,7 +21,7 @@ I was previously a bachelor's (grad. 2018) and master's student (grad. 2019) in 
 ## Conference Presentations
 
 **Characterizing Respiratory Symptoms and COVID-19 Trends from OMOP-CDM database for Public Health Reporting**
-Marcello Chang, MS1\*, **Jonathan Lu, MS1\*,** Birju Patel, Nigam H. Shah, Jonathan H. Chen, MD, PhD1
+Marcello Chang, MS1\*, **Jonathan Lu, MS1\*,** Birju Patel, Nigam H. Shah, Jonathan H. Chen
 *American Medical Informatics Summit*, 2021
 [Abstract](conference/Chang2021_abstract_CDC-COVID-19.pdf) \| [Poster](conference/Lu2021_poster_CDC-COVID-19.pdf)
 *\* indicates equal contribution*
