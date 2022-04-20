@@ -3,8 +3,6 @@ I am currently a medical student at Stanford University School of Medicine, fund
 I was previously a bachelor's (grad. 2018) and master's student (grad. 2019) in computer science at Princeton University, where I was lucky and grateful to work in the group of [Barbara Engelhardt](http://beehive.cs.princeton.edu/), on inferring causal networks from gene expression time series. I've also worked on analyzing protein complex mass spectra in the group of [Alma Burlingame](http://msf.ucsf.edu/) at UCSF.
 
 
-
-
 ## Journal Papers
 
 **Using AI to Empower Collaborative Team Workflows: Two Implementations for Advance Care Planning and Care Escalation**
@@ -12,17 +10,21 @@ Ron C. Li, Margaret Smith, **Jonathan Lu**, Anand Avati, Samantha Wang, Winifrie
 *NEJM Catalyst Innovations in Care Delivery*, 2022
 [Paper](https://catalyst.nejm.org/doi/full/10.1056/CAT.21.0457) [(PDF)](journal/Li2022_Article_UsingAIToEmpower.pdf)
 
-
 **Causal network inference from gene transcriptional time-series response to glucocorticoids**  
 **Jonathan Lu\***, Bianca Dumitrascu\*, Ian C. McDowell, Brian Jo, Alejandro Barrera, Linda K. Hong, Sarah M. Leichter, Timothy E. Reddy, Barbara E. Engelhardt  
 *PLOS Computational Biology*, 2021   
 [Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pcbi.1008223) [(PDF)](journal/Lu2021_Article_BETS.pdf)  \| [Code](https://github.com/lujonathanh/BETS) \| [Analysis](https://zenodo.org/record/4009546#.YGJhcUhKjyt)  
 *\* indicates equal contribution*
 
+**COVID-19 Solutions Are Climate Solutions: Lessons From Reusable Gowns**
+Natalie Baker\*, Rebecca Bromley-Dulfano\*, Joshua Chan\*, Anshal Gupta\*, Luciana Herman,3 Navami Jain\*, Anita Lowe Taylor\*, **Jonathan Lu\***, Jaspreet Pannu\*, Lisa Patel, and Mary Prunicki
+*Frontiers of Public Health*, 2020
+[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7732643/) [(PDF)](journal/Baker2020_Article_ReusableGowns.pdf)
+
 **Improved Peak Detection and Deconvolution of Native Electrospray Mass Spectra from Large Protein Complexes**  
 **Jonathan Lu\*,** Michael J. Trnka\*, Soung-Hun Roh, Philip J. J. Robinson, Carrie Shiau, Danica Galonic Fujimori, Wah Chiu, Alma L. Burlingame, Shenheng Guan  
 *Journal of the American Society of Mass Spectrometry*, 2015  
-[Paper](journal/Lu2015_Article_ImprovedPeakDetectionAndDeconv.pdf) \| [Code](https://github.com/lujonathanh/PeakSeeker)  
+[Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5067139/) [(PDF)](journal/Lu2015_Article_ImprovedPeakDetectionAndDeconv.pdf) \| [Code](https://github.com/lujonathanh/PeakSeeker)  
 *\* indicates equal contribution*
 
 
