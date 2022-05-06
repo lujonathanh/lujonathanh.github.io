@@ -1,4 +1,4 @@
-I am currently a medical student at Stanford University School of Medicine, funded by the MedScholars fund to work in the lab of [Nigam Shah](https://shahlab.stanford.edu/doku.php) on deploying and monitoring clinical machine learning models.
+I am currently a medical student at Stanford University School of Medicine, funded by the [MedScholars](https://med.stanford.edu/medscholars.html) fund to work in the lab of [Nigam Shah](https://shahlab.stanford.edu/doku.php) on deploying and monitoring clinical machine learning models.
 
 I was previously a bachelor's (grad. 2018) and master's student (grad. 2019) in computer science at Princeton University, where I was lucky and grateful to work in the group of [Barbara Engelhardt](http://beehive.cs.princeton.edu/), on inferring causal networks from gene expression time series. I've also worked on analyzing protein complex mass spectra in the group of [Alma Burlingame](http://msf.ucsf.edu/) at UCSF.
 
@@ -34,14 +34,14 @@ Natalie Baker\*, Rebecca Bromley-Dulfano\*, Joshua Chan\*, Anshal Gupta\*, Lucia
 **Low adherence to existing model reporting guidelines by commonly used clinical prediction models**  
 **Jonathan H. Lu,** Alison Callahan, Birju S. Patel, Keith E. Morse, Dev Dash, Nigam H. Shah  
 *medrXiv*, 2021  
-[Preprint](https://www.medrxiv.org/content/10.1101/2021.07.21.21260282v1)  
+[Preprint](https://www.medrxiv.org/content/10.1101/2021.07.21.21260282v1) | [Story by Stanford HAI](https://hai.stanford.edu/news/flying-dark-hospital-ai-tools-arent-well-documented)  | [Poster Presentation](conference/Lu2022_Poster_LowAdherenceToModelReportingGuidelines.pdf)   
 
 
 ## Conference/Poster Presentations
 
 **Roots Telehealth Support Program**
 Sidney Owen, **Jonathan Lu,** Mayra Reyes, Kalijah Terilli, Alex Gomez-Lara, Jadyn Lee, Louis McKinnon, Akshara Shankar, Temesgen Woldeyesus  
-Community Partner: [Roots Community Health Center](https://rootsclinic.org/)  
+Community Partner: [Roots Community Health Center](https://rootsclinic.org/) . **"Founded in Oakland, CA, [Roots Community Health Center's] mission is to uplift those impacted by systemic inequities and poverty[, accomplishing this] through medical and behavioral health care, health navigation, workforce enterprises, housing, outreach, and advocacy."**  
 *Stanford Community Health Symposium*, 2022  
 [Abstract](conference/Owen2022_abstract_RootsTelehealthProgram.pdf) [Poster](conference/Owen2022_poster_RootsTelehealthProgram.pdf) [Poster Presentation](https://med.stanford.edu/oce/partnerships-collaborations/2022-community-health-symposium/2022-abstracts---posters.html)  
 
@@ -60,7 +60,7 @@ Partner: [Stanford Pacific Free Clinic](https://www.med.stanford.edu/pacific.htm
 
 **Review On Evaluating Associations Between Air Pollution Burden And Rates Of ED Visits And Hospitalization In Stockton's Disadvantaged Communities**  
 India Rogers-Shepp, Jonathan Lu, Maïté Van Hentenryck, Sohayla Eldeeb, Navami Jain, Avanthi Puvvala, Lisa Patel MD  
-Community Partner: [Catholic Charities Of The Diocese Of Stockton](https://www.ccstockton.org/)  
+Community Partner: [Catholic Charities Of The Diocese Of Stockton, Environmental Justice Program](https://www.ccstockton.org/environmental-justice)    
 *Stanford Community Health Symposium*, 2021  
 [Poster](Rogers-Shepp2021_poster_StocktonAirPollution.pdf) [Abstract](Rogers-Shepp2021_abstract_StocktonAirPollution.pdf) [Poster presentation](https://med.stanford.edu/oce/partnerships-collaborations/community-health-symposium/community-health-symposium-abstracts---posters/community-health-symposium-abstracts-21-42.html)  
 
