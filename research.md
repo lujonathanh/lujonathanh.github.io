@@ -39,9 +39,22 @@ Natalie Baker\*, Rebecca Bromley-Dulfano\*, Joshua Chan\*, Anshal Gupta\*, Lucia
 
 ## Conference/Poster Presentations
 
-**Roots Telehealth Support Program**
+**Reliability and Fairness Audits of Clinical AI Models using STARR-OMOP**  
+**Jonathan Lu,** Amelia Sattler\*, Samantha Wang\*, Ali Raza Khaki\*, Alison Callahan, Scott Fleming, Rebecca Fong, Benjamin Ehlert, Ron C. Li, Lisa Shieh, Kavitha Ramchandran,  Michael F. Gensheimer, Sarah Chobot, Stephen Pfohl, Siyun Li, Kenny Shum, Nitin Parikh, Priya Desai, Briththa Seevaratnam, Melanie Hanson, Margaret Smith, Yizhe Xu, Arjun Gokhale, Winifred Teuteberg\*\*, Nigam H. Shah\*\*  
+*STARR Informatics Summit*, 2022  
+[Presentation](conference/Lu2022_presentation_AuditingClinicalAIModels.pdf)  
+*\* indicates equal contribution*  
+*\*\* indicates joint senior authorship*  
+
+**Low adherence to model reporting guidelines for commonly used clinical prediction models**  
+Jonathan Lu, Alison Callahan\*, Birju Patel\*, Keith Morse\*, Dev Dash, Nigam Shah  
+*37th Stanford Medical Student Research Symposium*, 2022  
+[Abstract](conference/Lu2022_abstract_LowAdherenceToModelReportingGuidelines.pdf) | [Presentation](conference/Lu2022_poster_LowAdherenceToModelReportingGuidelines.pdf)  
+*\* indicates equal contribution*  
+
+**Roots Telehealth Support Program**  
 Sidney Owen, **Jonathan Lu,** Mayra Reyes, Kalijah Terilli, Alex Gomez-Lara, Jadyn Lee, Louis McKinnon, Akshara Shankar, Temesgen Woldeyesus  
-Community Partner: [Roots Community Health Center](https://rootsclinic.org/) . **"Founded in Oakland, CA, [Roots Community Health Center's] mission is to uplift those impacted by systemic inequities and poverty[, accomplishing this] through medical and behavioral health care, health navigation, workforce enterprises, housing, outreach, and advocacy."**  
+Community Partner: [Roots Community Health Center](https://rootsclinic.org/).     
 *Stanford Community Health Symposium*, 2022  
 [Abstract](conference/Owen2022_abstract_RootsTelehealthProgram.pdf) [Poster](conference/Owen2022_poster_RootsTelehealthProgram.pdf) [Poster Presentation](https://med.stanford.edu/oce/partnerships-collaborations/2022-community-health-symposium/2022-abstracts---posters.html)  
 
@@ -56,7 +69,7 @@ Partner: [Stanford Pacific Free Clinic](https://www.med.stanford.edu/pacific.htm
 **Jonathan Lu,** Ashley Jowell, Josh Carter, Barbara Erny, Anna Lachenauer  
 *Society of Teachers of Family Medicine Conference on Medical Student Education*, 2021  
 [Poster](conference/Lu2021_poster_AdvocacyAssessmentClimateIntegrationCurriculum.pdf) [Abstract](conference/Lu2021_abstract_Advocacy_and_Assessment_of_Climate_Change_Integrat.pdf) [Video Presentation](https://www.youtube.com/watch?v=E4sCxuRqAyk)  
-[Resources for climate & health curriculum interventions in medical schools, from Medical Students for a Sustainable Future](https://docs.google.com/document/d/1lwLv-PZXZTymWbPLTB3604dvnOvg2gKntIoBo7QH-6c/edit?usp=drive_web&ouid=109652253851767046454) (also contact [Medical Students for a Sustainable Future](https://ms4sf.org/))  
+[(Not my work, but check out these other resources for climate & health curriculum interventions in medical schools, from Medical Students for a Sustainable Future)](https://docs.google.com/document/d/1lwLv-PZXZTymWbPLTB3604dvnOvg2gKntIoBo7QH-6c/edit?usp=drive_web&ouid=109652253851767046454) (also contact [Medical Students for a Sustainable Future](https://ms4sf.org/))  
 
 **Review On Evaluating Associations Between Air Pollution Burden And Rates Of ED Visits And Hospitalization In Stockton's Disadvantaged Communities**  
 India Rogers-Shepp, Jonathan Lu, Maïté Van Hentenryck, Sohayla Eldeeb, Navami Jain, Avanthi Puvvala, Lisa Patel MD  
