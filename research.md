@@ -5,6 +5,19 @@ I was previously a bachelor's (grad. 2018) and master's student (grad. 2019) in 
 
 ## Journal Papers
 
+**Considerations in the reliability and fairness audits of predictive models for advance care planning**  
+**Jonathan Lu**, Amelia Sattler\*, Samantha Wang\*, Ali Raza Khaki\*, Alison Callahan, Scott Fleming, Rebecca Fong, Benjamin Ehlert, Ron C. Li, Lisa Shieh, Kavitha Ramchandran, Michael F. Gensheimer, Sarah Chobot, Stephen Pfohl, Siyun Li, Kenny Shum, Nitin Parikh, Priya Desai, Briththa Seevaratnam, Melanie Hanson, Margaret Smith, Yizhe Xu, Arjun Gokhale, Steven Lin, Michael A. Pfeffer, Winifred Teuteberg\*\*, Nigam H. Shah\*\*  
+*Frontiers in Digital Health*, 2022  
+[Paper](https://www.frontiersin.org/articles/10.3389/fdgth.2022.943768/full) ([PDF](journal/Lu2022_Article_ConsiderationsReliabilityFairnessAudits.pdf), [Supplement](journal/Lu2022_Supplement_ConsiderationsReliabilityFairnessAudits.pdf))  
+*\* indicates equal contribution*  
+*\*\* indicates equal contribution and shared senior authorship*  
+
+
+**Assessment of Adherence to Reporting Guidelines by Commonly Used Clinical Prediction Models From a Single Vendor - A Systematic Review**  
+**Jonathan H. Lu**, Alison Callahan, Birju S. Patel, Keith E. Morse, Dev Dash, Michael A. Pfeffer, Nigam H. Shah  
+*JAMA Network Open*, 2022  
+[Paper](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2795407) ([PDF](journal/Lu2022_Article_AssessmentAdherenceReportingGuidelines.pdf), [Supplement](journal/Lu2022_Supplement_AssessmentAdherenceReportingGuidelines.pdf))  
+
 **Using AI to Empower Collaborative Team Workflows: Two Implementations for Advance Care Planning and Care Escalation**  
 Ron C. Li, Margaret Smith, **Jonathan Lu**, Anand Avati, Samantha Wang, Winifried G. Teuteberg, Kenny Shum, Grace Hong, Briththa Seevaratnam, Jerri Westphal, Margaret Dougherty, Pooja Rao, Steven Asch, Steven Lin, Christopher Sharp, Lisa Shieh, Nigam H. Shah  
 *NEJM Catalyst Innovations in Care Delivery*, 2022  

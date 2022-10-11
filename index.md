@@ -1,4 +1,4 @@
-Hello! I'm a medical student at Stanford University School of Medicine (graduation 2023) and an aspiring primary care physician-computer scientist. 
+Hello! I'm a medical student at Stanford University School of Medicine (graduation 2024) and an aspiring primary care physician-computer scientist. 
 
 I'm trying to become a compassionate, competent clinician. And, I'd like to put my clinical experience with my computational training to address healthcare challenges. My [research background](research.md) is in machine learning, causal inference, statistics, and genomics.
 
