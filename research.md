@@ -5,6 +5,11 @@ I was previously a bachelor's (grad. 2018) and master's student (grad. 2019) in 
 
 ## Journal Papers
 
+**A model for comprehensive climate and medical education**  
+Ashley Jowell, Anna Lachenauer, **Jonathan Lu**, Benjamin Maines, Lisa Patel, Kari Nadeau, Barbara C Erny  
+*The Lancet Planetary Health*, 2023  
+[PDF](journal/Jowell2023_Article_ModelClimateHealthEdu.pdf)  
+
 **Considerations in the reliability and fairness audits of predictive models for advance care planning**  
 **Jonathan Lu**, Amelia Sattler\*, Samantha Wang\*, Ali Raza Khaki\*, Alison Callahan, Scott Fleming, Rebecca Fong, Benjamin Ehlert, Ron C. Li, Lisa Shieh, Kavitha Ramchandran, Michael F. Gensheimer, Sarah Chobot, Stephen Pfohl, Siyun Li, Kenny Shum, Nitin Parikh, Priya Desai, Briththa Seevaratnam, Melanie Hanson, Margaret Smith, Yizhe Xu, Arjun Gokhale, Steven Lin, Michael A. Pfeffer, Winifred Teuteberg\*\*, Nigam H. Shah\*\*  
 *Frontiers in Digital Health*, 2022  
@@ -12,16 +17,25 @@ I was previously a bachelor's (grad. 2018) and master's student (grad. 2019) in 
 *\* indicates equal contribution*  
 *\*\* indicates equal contribution and shared senior authorship*  
 
-
 **Assessment of Adherence to Reporting Guidelines by Commonly Used Clinical Prediction Models From a Single Vendor - A Systematic Review**  
 **Jonathan H. Lu**, Alison Callahan, Birju S. Patel, Keith E. Morse, Dev Dash, Michael A. Pfeffer, Nigam H. Shah  
 *JAMA Network Open*, 2022  
-[Paper](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2795407) ([PDF](journal/Lu2022_Article_AssessmentAdherenceReportingGuidelines.pdf), [Supplement](journal/Lu2022_Supplement_AssessmentAdherenceReportingGuidelines.pdf))  
+[Paper](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2795407) ([PDF](journal/Lu2022_Article_AssessmentAdherenceReportingGuidelines.pdf), [Supplement](journal/Lu2022_Supplement_AssessmentAdherenceReportingGuidelines.pdf))  | [Story by Stanford HAI](https://hai.stanford.edu/news/flying-dark-hospital-ai-tools-arent-well-documented)  
 
 **Using AI to Empower Collaborative Team Workflows: Two Implementations for Advance Care Planning and Care Escalation**  
 Ron C. Li, Margaret Smith, **Jonathan Lu**, Anand Avati, Samantha Wang, Winifried G. Teuteberg, Kenny Shum, Grace Hong, Briththa Seevaratnam, Jerri Westphal, Margaret Dougherty, Pooja Rao, Steven Asch, Steven Lin, Christopher Sharp, Lisa Shieh, Nigam H. Shah  
 *NEJM Catalyst Innovations in Care Delivery*, 2022  
 [Paper](https://catalyst.nejm.org/doi/full/10.1056/CAT.21.0457) [(PDF)](journal/Li2022_Article_UsingAIToEmpower.pdf)  
+
+**Monitoring Approaches for a Pediatric Chronic Kidney Disease Machine Learning Model**  
+Keith E. Morse , Conner Brown , Scott Fleming , Irene Todd , Austin Powell , Alton Russell , David Scheinker , Scott M. Sutherland , **Jonathan Lu**, Brendan Watkins , Nigam H. Shah , Natalie M. Pageler , Jonathan P. Palma  
+*Applied Clinical Informatics*, 2022  
+[Abstract](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0042-1746168?update=true&ERSESSIONTOKEN=OKA3uEIDphcx2B9x2FfXpx2FQTfywjHoFbALoj-18x2djidZzTcerwP1sNEWUtbP8wx3Dx3DjxxNpB9jQXJRwqYU0Fgcxx2Qx3Dx3D-fHa9MXRDnx2B3YmldeIPRQoQx3Dx3D-Kxxcru399CNQH0wYTODPLvAx3Dx3D)  
+
+**Nursing Workflow Change in a COVID-19 Inpatient Unit Following the Deployment of Inpatient Telehealth: Observational Study Using a Real-Time Locating System**  
+Stacie Vilendrer 1 Author Orcid Image ;  Mary E Lough 1, 2 Author Orcid Image ;  Donn W Garvert 1 Author Orcid Image ;  Monique H Lambert 2 Author Orcid Image ;  Jonathan Hsijing Lu 3 Author Orcid Image ;  Birju Patel 3 Author Orcid Image ;  Nigam H Shah 3 Author Orcid Image ;  Michelle Y Williams 1, 2 Author Orcid Image ;  Samantha M R Kling 1 Author Orcid Image  
+*Journal of Medical Internet Research*, 2022  
+[Paper](https://www.jmir.org/2022/6/e36882/) [(PDF)](journal/Vilendrer2022_Article_NursingRTLS.pdf)  
 
 **Causal network inference from gene transcriptional time-series response to glucocorticoids**  
 **Jonathan Lu\***, Bianca Dumitrascu\*, Ian C. McDowell, Brian Jo, Alejandro Barrera, Linda K. Hong, Sarah M. Leichter, Timothy E. Reddy, Barbara E. Engelhardt  
@@ -41,16 +55,12 @@ Natalie Baker\*, Rebecca Bromley-Dulfano\*, Joshua Chan\*, Anshal Gupta\*, Lucia
 [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5067139/) [(PDF)](journal/Lu2015_Article_ImprovedPeakDetectionAndDeconv.pdf) \| [Code](https://github.com/lujonathanh/PeakSeeker)  
 *\* indicates equal contribution*  
 
-
-## Preprints
-
-**Low adherence to existing model reporting guidelines by commonly used clinical prediction models**  
-**Jonathan H. Lu,** Alison Callahan, Birju S. Patel, Keith E. Morse, Dev Dash, Nigam H. Shah  
-*medrXiv*, 2021  
-[Preprint](https://www.medrxiv.org/content/10.1101/2021.07.21.21260282v1) | [Story by Stanford HAI](https://hai.stanford.edu/news/flying-dark-hospital-ai-tools-arent-well-documented)  | [Poster Presentation](conference/Lu2022_Poster_LowAdherenceToModelReportingGuidelines.pdf)   
-
-
 ## Conference/Poster Presentations
+
+**Can Advance Care Planning AI models support better End-of-life Care planning?**
+*American College of Physicians, NorCal Meeting*, 2022
+[Poster](conference/Lu2022_poster_CanACPModelsSupportBetterEOLCare.pdf) | [References](conference/Lu2022_poster_CanACPModelsSupportBetterEOLCare_references.md)
+Thank you to Malathi Srinivasan and Kathleen Kenny for their feedback and support for this poster!  
 
 **Reliability and Fairness Audits of Clinical AI Models using STARR-OMOP**  
 **Jonathan Lu,** Amelia Sattler\*, Samantha Wang\*, Ali Raza Khaki\*, Alison Callahan, Scott Fleming, Rebecca Fong, Benjamin Ehlert, Ron C. Li, Lisa Shieh, Kavitha Ramchandran,  Michael F. Gensheimer, Sarah Chobot, Stephen Pfohl, Siyun Li, Kenny Shum, Nitin Parikh, Priya Desai, Briththa Seevaratnam, Melanie Hanson, Margaret Smith, Yizhe Xu, Arjun Gokhale, Winifred Teuteberg\*\*, Nigam H. Shah\*\*  
@@ -85,7 +95,7 @@ Partner: [Stanford Pacific Free Clinic](https://www.med.stanford.edu/pacific.htm
 [(Not my work, but check out these other resources for climate & health curriculum interventions in medical schools, from Medical Students for a Sustainable Future)](https://docs.google.com/document/d/1lwLv-PZXZTymWbPLTB3604dvnOvg2gKntIoBo7QH-6c/edit?usp=drive_web&ouid=109652253851767046454) (also contact [Medical Students for a Sustainable Future](https://ms4sf.org/))  
 
 **Review On Evaluating Associations Between Air Pollution Burden And Rates Of ED Visits And Hospitalization In Stockton's Disadvantaged Communities**  
-India Rogers-Shepp, Jonathan Lu, Maïté Van Hentenryck, Sohayla Eldeeb, Navami Jain, Avanthi Puvvala, Lisa Patel MD  
+India Rogers-Shepp, Jonathan Lu, Maïté Van Hentenryck, Sohayla Eldeeb, Navami Jain, Avanthi Puvvala, Lisa Patel  
 Community Partner: [Catholic Charities Of The Diocese Of Stockton, Environmental Justice Program](https://www.ccstockton.org/environmental-justice)    
 *Stanford Community Health Symposium*, 2021  
 [Poster](Rogers-Shepp2021_poster_StocktonAirPollution.pdf) [Abstract](Rogers-Shepp2021_abstract_StocktonAirPollution.pdf) [Poster presentation](https://med.stanford.edu/oce/partnerships-collaborations/community-health-symposium/community-health-symposium-abstracts---posters/community-health-symposium-abstracts-21-42.html)  
