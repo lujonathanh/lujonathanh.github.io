@@ -28,12 +28,12 @@ Ron C. Li, Margaret Smith, **Jonathan Lu**, Anand Avati, Samantha Wang, Winifrie
 [Paper](https://catalyst.nejm.org/doi/full/10.1056/CAT.21.0457) [(PDF)](journal/Li2022_Article_UsingAIToEmpower.pdf)  
 
 **Monitoring Approaches for a Pediatric Chronic Kidney Disease Machine Learning Model**  
-Keith E. Morse , Conner Brown , Scott Fleming , Irene Todd , Austin Powell , Alton Russell , David Scheinker , Scott M. Sutherland , **Jonathan Lu**, Brendan Watkins , Nigam H. Shah , Natalie M. Pageler , Jonathan P. Palma  
+Keith E. Morse, Conner Brown, Scott Fleming, Irene Todd, Austin Powell, Alton Russell , David Scheinker , Scott M. Sutherland , **Jonathan Lu**, Brendan Watkins , Nigam H. Shah , Natalie M. Pageler , Jonathan P. Palma  
 *Applied Clinical Informatics*, 2022  
 [Abstract](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0042-1746168?update=true&ERSESSIONTOKEN=OKA3uEIDphcx2B9x2FfXpx2FQTfywjHoFbALoj-18x2djidZzTcerwP1sNEWUtbP8wx3Dx3DjxxNpB9jQXJRwqYU0Fgcxx2Qx3Dx3D-fHa9MXRDnx2B3YmldeIPRQoQx3Dx3D-Kxxcru399CNQH0wYTODPLvAx3Dx3D)  
 
 **Nursing Workflow Change in a COVID-19 Inpatient Unit Following the Deployment of Inpatient Telehealth: Observational Study Using a Real-Time Locating System**  
-Stacie Vilendrer 1 Author Orcid Image ;  Mary E Lough 1, 2 Author Orcid Image ;  Donn W Garvert 1 Author Orcid Image ;  Monique H Lambert 2 Author Orcid Image ;  Jonathan Hsijing Lu 3 Author Orcid Image ;  Birju Patel 3 Author Orcid Image ;  Nigam H Shah 3 Author Orcid Image ;  Michelle Y Williams 1, 2 Author Orcid Image ;  Samantha M R Kling 1 Author Orcid Image  
+Stacie Vilendrer, Mary E Lough, Donn W Garvert, Monique H Lambert, Jonathan Hsijing Lu, Birju Patel, Nigam H Shah, Michelle Y Williams, Samantha M R Kling  
 *Journal of Medical Internet Research*, 2022  
 [Paper](https://www.jmir.org/2022/6/e36882/) [(PDF)](journal/Vilendrer2022_Article_NursingRTLS.pdf)  
 
@@ -98,7 +98,7 @@ Partner: [Stanford Pacific Free Clinic](https://www.med.stanford.edu/pacific.htm
 India Rogers-Shepp, Jonathan Lu, Maïté Van Hentenryck, Sohayla Eldeeb, Navami Jain, Avanthi Puvvala, Lisa Patel  
 Community Partner: [Catholic Charities Of The Diocese Of Stockton, Environmental Justice Program](https://www.ccstockton.org/environmental-justice)    
 *Stanford Community Health Symposium*, 2021  
-[Poster](Rogers-Shepp2021_poster_StocktonAirPollution.pdf) [Abstract](Rogers-Shepp2021_abstract_StocktonAirPollution.pdf) [Poster presentation](https://med.stanford.edu/oce/partnerships-collaborations/community-health-symposium/community-health-symposium-abstracts---posters/community-health-symposium-abstracts-21-42.html)  
+[Poster](conference/Rogers-Shepp2021_poster_StocktonAirPollution.pdf) [Abstract](conference/Rogers-Shepp2021_abstract_StocktonAirPollution.pdf) [Poster presentation](https://med.stanford.edu/oce/partnerships-collaborations/community-health-symposium/community-health-symposium-abstracts---posters/community-health-symposium-abstracts-21-42.html)  
 
 **Characterizing Respiratory Symptoms and COVID-19 Trends from OMOP-CDM database for Public Health Reporting**  
 Marcello Chang\*, **Jonathan Lu\*,** Birju Patel, Nigam H. Shah, Jonathan H. Chen
