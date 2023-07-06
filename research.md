@@ -57,21 +57,29 @@ Natalie Baker\*, Rebecca Bromley-Dulfano\*, Joshua Chan\*, Anshal Gupta\*, Lucia
 
 ## Conference/Poster Presentations
 
-**Can Advance Care Planning AI models support better End-of-life Care planning?**
+
+**Evaluation of Community-Partnered Curricular Intervention on Climate Change and Mental Health in Preclinical Psychiatry Curriculum**  
+** Jonathan Lu,** Charbel Bou-Khalil, Shammah Ike, Violet Saena, Shana Uhihamoelangi, Cecilia Taylor, Heleine Grewe, Barbara Erny, Yasmin Owusu  
+2023, April 30th  
+*Society of Teachers of Family Medicine Annual Spring Conference.* Tampa, FL, United States.  
+[Poster](conference/Lu2023_poster_ClimateChangeMentalHealth.pdf) | [References](conference/Lu2023_poster_ClimateChangeMentalHealth_references.md)  
+
+**Can Advance Care Planning AI models support better End-of-life Care planning?**  
+**Jonathan Lu,** Amelia Sattler\*, Samantha Wang\*, Ali Raza Khaki\*, Alison Callahan, Scott Fleming, Rebecca Fong, Benjamin Ehlert, Ron C. Li, Lisa Shieh, Kavitha Ramchandran,  Michael F. Gensheimer, Sarah Chobot, Stephen Pfohl, Siyun Li, Kenny Shum, Nitin Parikh, Priya Desai, Briththa Seevaratnam, Melanie Hanson, Margaret Smith, Yizhe Xu, Arjun Gokhale, Winifred Teuteberg\*\*, Nigam H. Shah\*\*  
 *American College of Physicians, NorCal Meeting*, 2022
 [Poster](conference/Lu2022_poster_CanACPModelsSupportBetterEOLCare.pdf) | [References](conference/Lu2022_poster_CanACPModelsSupportBetterEOLCare_references.md)
 Thank you to Malathi Srinivasan and Kathleen Kenny for their feedback and support for this poster!  
 
 **Reliability and Fairness Audits of Clinical AI Models using STARR-OMOP**  
 **Jonathan Lu,** Amelia Sattler\*, Samantha Wang\*, Ali Raza Khaki\*, Alison Callahan, Scott Fleming, Rebecca Fong, Benjamin Ehlert, Ron C. Li, Lisa Shieh, Kavitha Ramchandran,  Michael F. Gensheimer, Sarah Chobot, Stephen Pfohl, Siyun Li, Kenny Shum, Nitin Parikh, Priya Desai, Briththa Seevaratnam, Melanie Hanson, Margaret Smith, Yizhe Xu, Arjun Gokhale, Winifred Teuteberg\*\*, Nigam H. Shah\*\*  
-*STARR Informatics Summit*, 2022  
+*2nd STARR Informatics Summit.* Stanford, CA, United States.  
 [Presentation](conference/Lu2022_presentation_AuditingClinicalAIModels.pdf)  
 *\* indicates equal contribution*  
 *\*\* indicates joint senior authorship*  
 
 **Low adherence to model reporting guidelines for commonly used clinical prediction models**  
 Jonathan Lu, Alison Callahan\*, Birju Patel\*, Keith Morse\*, Dev Dash, Nigam Shah  
-*37th Stanford Medical Student Research Symposium*, 2022  
+37th Stanford Medical Student Research Symposium. Stanford, CA, United States.  
 [Abstract](conference/Lu2022_abstract_LowAdherenceToModelReportingGuidelines.pdf) | [Presentation](conference/Lu2022_poster_LowAdherenceToModelReportingGuidelines.pdf)  
 *\* indicates equal contribution*  
 
