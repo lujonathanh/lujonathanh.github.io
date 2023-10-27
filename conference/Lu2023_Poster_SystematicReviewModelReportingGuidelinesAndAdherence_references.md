@@ -13,5 +13,5 @@ Also, check out our full publication in JAMA Network Open [here](https://jamanet
 
 # Picture Credits
 
-Model development diagram. Used with permission from [Jung et al 2020](https://academic.oup.com/jamia/article/28/6/1149/6045012)
+Model development diagram. Used with permission from [Jung et al 2020](https://academic.oup.com/jamia/article/28/6/1149/6045012)  
 Doctor and Patient speaking: [https://theconversation.com/why-addressing-racism-against-black-women-in-health-care-is-key-to-ending-the-us-hiv-epidemic-172842](https://theconversation.com/why-addressing-racism-against-black-women-in-health-care-is-key-to-ending-the-us-hiv-epidemic-172842)
