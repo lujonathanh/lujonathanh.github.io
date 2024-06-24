@@ -1,6 +1,6 @@
-I am currently a medical student at Stanford University School of Medicine, funded by the [MedScholars](https://med.stanford.edu/medscholars.html) fund to work in the lab of [Nigam Shah](https://shahlab.stanford.edu/doku.php) on deploying and monitoring clinical machine learning models.
+Before residency, I was a medical student at Stanford University School of Medicine (grad. 2024), and work in the lab of [Nigam Shah](https://shahlab.stanford.edu/doku.php) on deploying and monitoring clinical machine learning models, funded by the [MedScholars](https://med.stanford.edu/medscholars.html) reserach fund for medical students.
 
-I was previously a bachelor's (grad. 2018) and master's student (grad. 2019) in computer science at Princeton University, where I was lucky and grateful to work in the group of [Barbara Engelhardt](http://beehive.cs.princeton.edu/), on inferring causal networks from gene expression time series. I've also worked on analyzing protein complex mass spectra in the group of [Alma Burlingame](http://msf.ucsf.edu/) at UCSF.
+Before that, I was a bachelor's (grad. 2018) and master's student (grad. 2019) in computer science at Princeton University, where I was lucky and grateful to work in the group of [Barbara Engelhardt](http://beehive.cs.princeton.edu/), on inferring causal networks from gene expression time series. I've also worked on analyzing protein complex mass spectra in the group of [Alma Burlingame](http://msf.ucsf.edu/) at UCSF.
 
 
 ## Journal Papers
@@ -123,7 +123,16 @@ Lydia Tam\*, **Jonathan Lu\***, Mike Dacre\*, Olivia Jee, Jordan Chavez, Erika S
 **Causal profile subgraph embeddings of metabolic and immune response mediated gene regulation from time series gene expression**   
 **Jonathan Lu\*,** Bianca Dumitrascu\*, Ian C. McDowell, Soledad Villar, Timothy E. Reddy, Barbara Engelhardt  
 *2nd Annual Probabilistic Modeling in Genomics Conference*, 2016  
-*\* indicates equal contribution*
+*\* indicates equal contribution*  
+
+
+## Reports  
+
+**Opportunities and Barriers for the Clean Energy Transition for Rural Communities in the United States: A Qualitative Interview Approach**  
+Joshua Chan \*, Aboli Ghatpande \*, Jonathan Lu, \*, Josie Pearce \*, Kate Hoppe, Lisa Patel  
+This was a final report for the Spring 2024 course at Stanford University: PEDS 199/299 - Independent Study on Rural Health in the Clean Energy Transition.  
+[Report](journal/Chan2024_Report_RuralHealthCleanEnergy.pdf)  
+*\* indicates equal contribution*  
 
 ## Theses
 
