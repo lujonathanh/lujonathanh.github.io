@@ -60,7 +60,7 @@ Natalie Baker\*, Rebecca Bromley-Dulfano\*, Joshua Chan\*, Anshal Gupta\*, Lucia
 **Climate Assessment for a Patient Advisory Council at a Community Health Center - Family Medicine Residency**  
 **Jonathan Lu,** Monica Lopez, Debbie Guerrero, Jena Eidschun, Andrew Schechtman, Bridget Harrison, Grace Yu  
 *Society of Teachers of Family Medicine Annual Spring Conference.* Salt Lake City, UT, United States.  2025, May 5th  
-[Poster](Lu2025_poster_PACClimateAssessment.pdf)  
+[Poster](conference/Lu2025_poster_PACClimateAssessment.pdf)  
 
 **Evaluation of Community-Partnered Curricular Intervention on Climate Change and Mental Health in Preclinical Psychiatry Curriculum**  
 **Jonathan Lu,** Charbel Bou-Khalil, Shammah Ike, Violet Saena, Shana Uhihamoelangi, Cecilia Taylor, Heleine Grewe, Barbara Erny, Yasmin Owusu  
