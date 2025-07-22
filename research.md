@@ -5,6 +5,11 @@ Before that, I was a bachelor's (grad. 2018) and master's student (grad. 2019) i
 
 ## Journal Papers
 
+**Comparison of 1-year mortality predictions from vendor-supplied versus academic model for cancer patients**  
+Michael F Gensheimer, **Jonathan Lu**, Kavitha Ramchandran  
+*PeerJ*, 2025
+[PubMed](https://pmc.ncbi.nlm.nih.gov/articles/PMC11827575/)  
+
 **A model for comprehensive climate and medical education**  
 Ashley Jowell, Anna Lachenauer, **Jonathan Lu**, Benjamin Maines, Lisa Patel, Kari Nadeau, Barbara C Erny  
 *The Lancet Planetary Health*, 2023  
