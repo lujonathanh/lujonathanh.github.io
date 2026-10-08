@@ -62,6 +62,11 @@ Natalie Baker\*, Rebecca Bromley-Dulfano\*, Joshua Chan\*, Anshal Gupta\*, Lucia
 
 ## Conference/Poster Presentations
 
+**Patient Advisory Council Implementation in an Underserved Family Medicine Residency Continuity Clinic**  
+**Jonathan Lu,** Tiffany Chen, Bryan Vuong, Ryan Ferdowsian, Rachel Sussman, Marta Miguelena, Margarette Shegog, Weston LaGrandeur, Grace Yu.  
+*Accreditation Council for Graduate Education Back to Bedside Collaborative Meeting.* Chicago, IL, United States.  2026, Aug 3rd  
+[Poster](conference/Lu2026_poster_PACImplementation.pdf)  
+
 **Climate Assessment for a Patient Advisory Council at a Community Health Center - Family Medicine Residency**  
 **Jonathan Lu,** Monica Lopez, Debbie Guerrero, Jena Eidschun, Andrew Schechtman, Bridget Harrison, Grace Yu  
 *Society of Teachers of Family Medicine Annual Spring Conference.* Salt Lake City, UT, United States.  2025, May 5th  
@@ -98,8 +103,8 @@ Community Partner: [Roots Community Health Center](https://rootsclinic.org/).
 [Abstract](conference/Owen2022_abstract_RootsTelehealthProgram.pdf) [Poster](conference/Owen2022_poster_RootsTelehealthProgram.pdf) [Poster Presentation](https://med.stanford.edu/oce/partnerships-collaborations/2022-community-health-symposium/2022-abstracts---posters.html)  
 
 **Bridging the Gap of Access to Affordable Medication**  
-Sarah Ludington, Jonathan Lu, Elizabeth Zudock, Solomiia Savchuk, Harrison Besser,
-Xichong Liu, Wendy Caceres MD, Baldeep Singh MD  
+Sarah Ludington, **Jonathan Lu,** Elizabeth Zudock, Solomiia Savchuk, Harrison Besser,
+Xichong Liu, Wendy Caceres, Baldeep Singh 
 Partner: [Stanford Pacific Free Clinic](https://www.med.stanford.edu/pacific.html)  
 *Society of Student-Run Free Clinics Conference*, 2021  
 [Poster](conference/Ludington2021_poster_PFCBridgingMeds.pdf)  
